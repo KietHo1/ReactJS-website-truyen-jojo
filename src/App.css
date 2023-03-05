@@ -1,0 +1,166 @@
+.App {
+  text-align: center;
+  display: flex;
+}
+
+.App-logo {
+  height: 0vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: rgb(255, 236, 238);
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+  width: 1450px;
+}
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.id0 {
+  height: 550px;
+  width: 1400px;
+}
+
+p {
+  color: black;
+}
+
+.Ho,
+.Ten,
+.SDT {
+  position: relative;
+  left: 100px;
+  text-align: left;
+}
+
+.fisrtname,
+.name,
+.telenumber {
+  position: absolute;
+  left: 100px;
+  text-align: left;
+}
+.form {
+  margin-bottom: 40px;
+}
+
+.Hello,
+.Please {
+  text-align: Center;
+}
+
+.images1,
+.images3,
+.images5,
+.images7 {
+  position: relative;
+  left: 100px;
+  width: 550px;
+  height: 550px;
+  padding-right: 200px;
+  cursor: pointer;
+}
+
+.images2,
+.images4,
+.images6,
+.images8 {
+  left: 790px;
+  width: 550px;
+  height: 550px;
+  cursor: pointer;
+}
+
+.phan1,
+.phan2,
+.phan3,
+.phan4 {
+  display: flex;
+}
+.images_header,
+.TieuDe1,
+.TieuDe2 {
+  position: relative;
+  padding-left: 100px;
+}
+.TieuDe {
+  display: flex;
+  padding-left: 100px;
+}
+.a1,
+.a2,
+.a3,
+.a4,
+.a5,
+.a6,
+.a7,
+.a8,
+.TrangChu {
+  text-decoration: none;
+}
+
+.id2 {
+  display: flex;
+}
+
+.id3 {
+  display: flex;
+  background-color: red;
+}
+
+.imagesfacebook {
+  position: relative;
+  left: 450px;
+  width: 100px;
+  height: 100px;
+  padding-top: 20px;
+}
+
+.imagesgithub {
+  width: 115px;
+  height: 115px;
+  padding-top: 10px;
+  position: relative;
+  left: 550px;
+  padding-right: 120px;
+}
+
+.end1 {
+  color: #fff;
+  font-size: 16px;
+  position: relative;
+  padding-left: 20px;
+}
+
+.end2 {
+  color: #fff;
+  font-size: 16px;
+  position: relative;
+  padding-left: 1120px;
+}
+
+.AnhBia {
+  height: 550px;
+  width: 1400px;
+}
